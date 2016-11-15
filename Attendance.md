@@ -8,4 +8,5 @@ Bartosz Kolanek	 | :+1:	| :+1: |
 Hubert Stępiński |      |:+1:|
 Daria Chełstowska |        | :+1: |
 Krzysztof Kłopocki |      | :+1: |
+Przemysław Smyczyński |      | :+1: |
 suma             | 5   || 6 |
